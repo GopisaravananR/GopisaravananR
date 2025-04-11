@@ -11,13 +11,13 @@
 ---
 
 ## 📊 GitHub Stats
-![Gopi's GitHub stats](https://github-readme-stats.vercel.app/api?username=gopisaravanan&show_icons=true&theme=light)
-[![GitHub Streak](https://streak-stats.demolab.com?user=gopisaravanan&theme=light)](https://git.io/streak-stats)
+![Gopi's GitHub stats](https://github-readme-stats.vercel.app/api?username=GopisaravananR&show_icons=true&theme=light)
+[![GitHub Streak](https://streak-stats.demolab.com?user=GopisaravananR&theme=light)](https://git.io/streak-stats)
 
 ---
 
 ## 🏆 GitHub Trophies  
-![Trophies](https://github-profile-trophy.vercel.app/?username=gopisaravanan&theme=light&column=4&margin-w=15&margin-h=15)
+![Trophies](https://github-profile-trophy.vercel.app/?username=GopisaravananR&theme=light&column=4&margin-w=15&margin-h=15)
 
 ---
 
@@ -71,7 +71,7 @@
 ---
 
 ## 📊 Most Used Languages  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gopisaravanan&layout=compact&theme=light)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GopisaravananR&layout=compact&theme=light)
 
 ---
 
